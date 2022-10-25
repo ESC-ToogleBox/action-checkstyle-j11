@@ -1,4 +1,4 @@
-FROM openjdk:11-alpine
+FROM eclipse-temurin:11-alpine
 
 ENV REVIEWDOG_VERSION=v0.14.1
 
